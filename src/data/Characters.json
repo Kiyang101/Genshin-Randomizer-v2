@@ -1,0 +1,1423 @@
+[
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disGeo": true,
+            "disCatalyst": true
+        },
+        "id": 9,
+        "name": "Ningguang",
+        "weapon": "Catalyst",
+        "elements": "Geo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T12:59:20.784Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disGeo": true,
+            "disSword": true
+        },
+        "id": 26,
+        "name": "Albedo",
+        "weapon": "Sword",
+        "elements": "Geo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:04:19.210Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disClaymore": true
+        },
+        "_id": "654101717589ad410dcd7766",
+        "id": 13,
+        "name": "Chongyun",
+        "weapon": "Claymore",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T13:30:25.965Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disHydro": true,
+            "disSword": true
+        },
+        "id": 8,
+        "name": "Xingqiu",
+        "weapon": "Sword",
+        "elements": "Hydro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T12:37:32.269Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disHydro": true,
+            "disCatalyst": true
+        },
+        "id": 4,
+        "name": "Barbara",
+        "weapon": "Catalyst",
+        "elements": "Hydro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T11:19:14.654Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disSword": true
+        },
+        "name": "Traveller",
+        "weapon": "Sword",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-26T09:49:58.862Z",
+        "__v": 0,
+        "id": 0,
+        "elements": "none",
+        "element": [
+            "Anemo",
+            "Geo",
+            "Electro",
+            "Dendro",
+            "Hydro"
+        ]
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disAnemo": true,
+            "disSword": true
+        },
+        "id": 15,
+        "name": "Jean",
+        "weapon": "Sword",
+        "elements": "Anemo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T13:38:47.026Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disCryo": true,
+            "disClaymore": true
+        },
+        "id": 32,
+        "name": "Eula",
+        "weapon": "Claymore",
+        "elements": "Cryo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:09:36.728Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disGeo": true,
+            "disClaymore": true
+        },
+        "id": 42,
+        "name": "Arataki Itto",
+        "weapon": "Claymore",
+        "elements": "Geo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:27:56.661Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disElectro": true,
+            "disSword": true
+        },
+        "id": 19,
+        "name": "Keqing",
+        "weapon": "Sword",
+        "elements": "Electro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:05:22.545Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disClaymore": true
+        },
+        "id": 69,
+        "name": "Freminet",
+        "weapon": "Claymore",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:45:13.595Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disAnemo": true,
+            "disBow": true
+        },
+        "id": 20,
+        "name": "Venti",
+        "weapon": "Bow",
+        "elements": "Anemo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:05:34.199Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disPolearm": true
+        },
+        "id": 30,
+        "name": "Rosaria",
+        "weapon": "Polearm",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:05:41.170Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disDendro": true,
+            "disBow": true
+        },
+        "id": 51,
+        "name": "Tighnari",
+        "weapon": "Bow",
+        "elements": "Dendro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:05:35.889Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disGeo": true,
+            "disClaymore": true
+        },
+        "id": 75,
+        "name": "Navia",
+        "weapon": "Claymore",
+        "elements": "Geo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-09T14:48:36.690Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disElectro": true,
+            "disCatalyst": true
+        },
+        "id": 45,
+        "name": "Yae Miko",
+        "weapon": "Catalyst",
+        "elements": "Electro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:29:34.479Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disBow": true
+        },
+        "id": 68,
+        "name": "Lyney",
+        "weapon": "Bow",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:44:55.779Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disGeo": true,
+            "disPolearm": true
+        },
+        "id": 25,
+        "name": "Zhongli",
+        "weapon": "Polearm",
+        "elements": "Geo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:10:28.945Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disBow": true
+        },
+        "id": 23,
+        "name": "Tartaglia",
+        "weapon": "Bow",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:06:31.224Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disClaymore": true
+        },
+        "id": 5,
+        "name": "Razor",
+        "weapon": "Claymore",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T11:21:36.752Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disGeo": true,
+            "disBow": true
+        },
+        "id": 41,
+        "name": "Gorou",
+        "weapon": "Bow",
+        "elements": "Geo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:27:42.224Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disDendro": true,
+            "disCatalyst": true
+        },
+        "id": 56,
+        "name": "Nahida",
+        "weapon": "Catalyst",
+        "elements": "Dendro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:16:59.918Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disClaymore": true
+        },
+        "id": 62,
+        "name": "Dehya",
+        "weapon": "Claymore",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:42:20.340Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disCatalyst": true
+        },
+        "id": 31,
+        "name": "Yanfei",
+        "weapon": "Catalyst",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:09:22.997Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disBow": true
+        },
+        "id": 37,
+        "name": "Kujou Sara",
+        "weapon": "Bow",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:24:00.787Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disSword": true
+        },
+        "id": 48,
+        "name": "Kuki Shinobu",
+        "weapon": "Sword",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:32:12.458Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disPolearm": true
+        },
+        "id": 63,
+        "name": "Mika",
+        "weapon": "Polearm",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:42:34.192Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disPolearm": true
+        },
+        "id": 74,
+        "name": "Chevreuse",
+        "weapon": "Polearm",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-09T14:50:05.474Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disSword": true
+        },
+        "id": 11,
+        "name": "Bennett",
+        "weapon": "Sword",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T13:15:35.534Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disCatalyst": true
+        },
+        "id": 18,
+        "name": "Mona",
+        "weapon": "Catalyst",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:05:10.236Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disCryo": true,
+            "disCatalyst": true
+        },
+        "id": 71,
+        "name": "Wriothesley",
+        "weapon": "Catalyst",
+        "elements": "Cryo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-03T14:27:58.344Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disGeo": true,
+            "disClaymore": true
+        },
+        "id": 12,
+        "name": "Noelle",
+        "weapon": "Claymore",
+        "elements": "Geo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T13:16:07.146Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disClaymore": true
+        },
+        "id": 24,
+        "name": "Xinyan",
+        "weapon": "Claymore",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T14:06:51.505Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disCryo": true,
+            "disBow": true
+        },
+        "id": 27,
+        "name": "Ganyu",
+        "weapon": "Bow",
+        "elements": "Cryo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:04:35.832Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disClaymore": true
+        },
+        "id": 52,
+        "name": "Dori",
+        "weapon": "Claymore",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:06:16.200Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disDendro": true,
+            "disSword": true
+        },
+        "id": 61,
+        "name": "Alhaitham",
+        "weapon": "Sword",
+        "elements": "Dendro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:42:07.371Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disPolearm": true
+        },
+        "id": 6,
+        "name": "Xiangling",
+        "weapon": "Polearm",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T12:23:32.019Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disBow": true
+        },
+        "name": "Amber",
+        "weapon": "Bow",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-26T09:49:58.862Z",
+        "__v": 0,
+        "id": 1,
+        "elements": "Pyro"
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disClaymore": true
+        },
+        "id": 7,
+        "name": "Beidou",
+        "weapon": "Claymore",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T12:33:38.895Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disCatalyst": true
+        },
+        "id": 3,
+        "name": "Lisa",
+        "weapon": "Catalyst",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T11:14:27.889Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disBow": true
+        },
+        "id": 10,
+        "name": "Fischl",
+        "weapon": "Bow",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T13:10:50.074Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disAnemo": true,
+            "disCatalyst": true
+        },
+        "id": 14,
+        "name": "Sucrose",
+        "weapon": "Catalyst",
+        "elements": "Anemo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T13:31:09.118Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disPolearm": true
+        },
+        "id": 29,
+        "name": "Hu Tao",
+        "weapon": "Polearm",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:05:26.929Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disSword": true
+        },
+        "id": 57,
+        "name": "Layla",
+        "weapon": "Sword",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:17:50.363Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disDendro": true,
+            "disCatalyst": true
+        },
+        "id": 65,
+        "name": "Baizhu",
+        "weapon": "Catalyst",
+        "elements": "Dendro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:43:21.197Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disCatalyst": true
+        },
+        "id": 70,
+        "name": "Neuvillette",
+        "weapon": "Catalyst",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:45:44.409Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disSword": true
+        },
+        "id": 73,
+        "name": "Furina",
+        "weapon": "Sword",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T12:48:22.208Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disBow": true
+        },
+        "_id": "65411bfc45967d77dd589023",
+        "id": 36,
+        "name": "Yoimiya",
+        "weapon": "Bow",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:23:40.805Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disGeo": true,
+            "disPolearm": true
+        },
+        "id": 43,
+        "name": "Yun Jin",
+        "weapon": "Polearm",
+        "elements": "Geo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:28:10.028Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disSword": true
+        },
+        "id": 46,
+        "name": "Kamisato Ayato",
+        "weapon": "Sword",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:30:03.718Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disAnemo": true,
+            "disCatalyst": true
+        },
+        "id": 59,
+        "name": "Wanderer",
+        "weapon": "Catalyst",
+        "elements": "Anemo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:26:25.224Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disCatalyst": true
+        },
+        "id": 72,
+        "name": "Charlotte",
+        "weapon": "Catalyst",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-03T19:39:51.714Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disAnemo": true,
+            "disSword": true
+        },
+        "id": 33,
+        "name": "Kaedehara Kazuha",
+        "weapon": "Sword",
+        "elements": "Anemo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:10:33.262Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disCryo": true,
+            "disSword": true
+        },
+        "id": 34,
+        "name": "Kamisato Ayaka",
+        "weapon": "Sword",
+        "elements": "Cryo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:18:13.198Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disDendro": true,
+            "disBow": true
+        },
+        "id": 50,
+        "name": "Collei",
+        "weapon": "Bow",
+        "elements": "Dendro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T18:51:04.084Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disSword": true
+        },
+        "id": 55,
+        "name": "Nilou",
+        "weapon": "Sword",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:16:24.100Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disAnemo": true,
+            "disBow": true
+        },
+        "id": 58,
+        "name": "Faruzan",
+        "weapon": "Bow",
+        "elements": "Anemo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:26:10.842Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disCatalyst": true
+        },
+        "id": 21,
+        "name": "Klee",
+        "weapon": "Catalyst",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:05:50.185Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disAnemo": true,
+            "disClaymore": true
+        },
+        "id": 35,
+        "name": "Sayu",
+        "weapon": "Claymore",
+        "elements": "Anemo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:23:09.797Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disCatalyst": true
+        },
+        "id": 39,
+        "name": "Sangonomiya Kokomi",
+        "weapon": "Catalyst",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:25:32.120Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disSword": true
+        },
+        "id": 2,
+        "name": "Kaeya",
+        "weapon": "Sword",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T11:11:25.780Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disClaymore": true
+        },
+        "id": 16,
+        "name": "Diluc",
+        "weapon": "Claymore",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T13:56:01.377Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disCryo": true,
+            "disSword": true
+        },
+        "_id": "65410986f8ac968e48e83895",
+        "id": 17,
+        "name": "Qiqi",
+        "weapon": "Sword",
+        "elements": "Cryo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T14:04:54.173Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disAnemo": true,
+            "disPolearm": true
+        },
+        "id": 28,
+        "name": "Xiao",
+        "weapon": "Polearm",
+        "elements": "Anemo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:04:48.540Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disAnemo": true,
+            "disSword": true
+        },
+        "id": 67,
+        "name": "Lynette",
+        "weapon": "Sword",
+        "elements": "Anemo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:44:38.708Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disCryo": true,
+            "disBow": true
+        },
+        "id": 22,
+        "name": "Diona",
+        "weapon": "Bow",
+        "elements": "Cryo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T14:06:06.010Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disElectro": true,
+            "disPolearm": true
+        },
+        "id": 38,
+        "name": "Raiden Shogun",
+        "weapon": "Polearm",
+        "elements": "Electro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:24:46.203Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disCryo": true,
+            "disPolearm": true
+        },
+        "id": 44,
+        "name": "Shenhe",
+        "weapon": "Polearm",
+        "elements": "Cryo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:28:23.819Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disBow": true
+        },
+        "id": 47,
+        "name": "Yelan",
+        "weapon": "Bow",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-10-31T15:31:52.178Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disElectro": true,
+            "disPolearm": true
+        },
+        "id": 54,
+        "name": "Cyno",
+        "weapon": "Polearm",
+        "elements": "Electro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2023-11-01T08:07:16.529Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disDendro": true,
+            "disClaymore": true
+        },
+        "id": 64,
+        "name": "Kaveh",
+        "weapon": "Claymore",
+        "elements": "Dendro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:42:50.333Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disPolearm": true
+        },
+        "id": 40,
+        "name": "Thoma",
+        "weapon": "Polearm",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T15:27:06.928Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disAnemo": true,
+            "disCatalyst": true
+        },
+        "id": 49,
+        "name": "Shikanoin Heizou",
+        "weapon": "Catalyst",
+        "elements": "Anemo",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-10-31T18:48:06.533Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disHydro": true,
+            "disPolearm": true
+        },
+        "id": 53,
+        "name": "Candace",
+        "weapon": "Polearm",
+        "elements": "Hydro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:07:00.566Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disDendro": true,
+            "disPolearm": true
+        },
+        "id": 60,
+        "name": "Yaoyao",
+        "weapon": "Polearm",
+        "elements": "Dendro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:28:45.704Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disDendro": true,
+            "disSword": true
+        },
+        "id": 66,
+        "name": "Kirara",
+        "weapon": "Sword",
+        "elements": "Dendro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2023-11-01T08:44:07.772Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disPyro": true,
+            "disClaymore": true
+        },
+        "_id": "65a257208adb2762db23345d",
+        "id": 76,
+        "name": "Gaming",
+        "weapon": "Claymore",
+        "elements": "Pyro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2024-01-13T09:25:52.653Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disAnemo": true,
+            "disCatalyst": true
+        },
+        "id": 77,
+        "name": "Xianyun",
+        "weapon": "Catalyst",
+        "elements": "Anemo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2024-01-13T09:29:27.315Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disGeo": true,
+            "disSword": true
+        },
+        "id": 78,
+        "name": "Chiori",
+        "weapon": "Sword",
+        "elements": "Geo",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2024-04-04T14:37:39.658Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disPyro": true,
+            "disPolearm": true
+        },
+        "id": 79,
+        "name": "Arlecchino",
+        "weapon": "Polearm",
+        "elements": "Pyro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2024-04-25T10:14:52.162Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disElectro": true,
+            "disSword": true
+        },
+        "id": 80,
+        "name": "Clorinde",
+        "weapon": "Sword",
+        "elements": "Electro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2024-07-03T11:03:02.405Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFour": true,
+            "disElectro": true,
+            "disBow": true
+        },
+        "id": 81,
+        "name": "Sethos",
+        "weapon": "Bow",
+        "elements": "Electro",
+        "rarity": 4,
+        "select": false,
+        "updated_at": "2024-07-03T11:04:11.940Z",
+        "__v": 0
+    },
+    {
+        "display": {
+            "real": true,
+            "disSearch": true,
+            "disFive": true,
+            "disHydro": true,
+            "disBow": true
+        },
+        "id": 82,
+        "name": "Sigewinne",
+        "weapon": "Bow",
+        "elements": "Hydro",
+        "rarity": 5,
+        "select": false,
+        "updated_at": "2024-07-03T11:04:34.920Z",
+        "__v": 0
+    }
+]
