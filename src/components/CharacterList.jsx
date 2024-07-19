@@ -20,7 +20,7 @@ const CharList = (props) => {
   return (
     <>
       <div
-        className="bg-[#95BDFF] rounded-2xl mt-3 text-center"
+        className="bg-[#95BDFF] rounded-2xl mt-3 mobile:mt-0 mobile:mb-5 text-center"
         style={{
           boxShadow: "5px 5px 32px 2px rgba(0, 0, 0, 0.4)",
         }}

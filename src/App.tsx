@@ -338,12 +338,12 @@ function App() {
   return (
     <>
       <div
-        className=" bg-[#AEE2FF] m-[2%] rounded-xl"
+        className=" bg-[#AEE2FF] m-[2%] mobile:m-0 rounded-xl"
         style={{
           boxShadow: "5px 5px 32px 2px rgba(0,0,0,0.4)",
         }}
       >
-        <div className="text-3xl pt-4">
+        <div className="text-3xl mobile:text-xl pt-4">
           <h1 className="mb-5 text-center">
             สุ่มทีมสู้บอส
             <br />
@@ -361,7 +361,9 @@ function App() {
             className="rounded-xl m-5 p-2"
             style={{ boxShadow: "5px 5px 32px 2px rgba(0,0,0,0.4)" }}
           >
-            <h1 className="text-4xl text-center">Select your Character&Boss</h1>
+            <h1 className="text-4xl mobile:text-2xl text-center">
+              Select your Character&Boss
+            </h1>
             <div
               style={{
                 borderBottom: "1px solid black",
@@ -398,7 +400,7 @@ function App() {
             {!loading_character && (
               <div className="m-3 ">
                 <button
-                  className="text-2xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-1 pr-1 pt-0 pb-0 rounded-xl"
+                  className="text-2xl mobile:text-xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-1 pr-1 pt-0 pb-0 rounded-xl"
                   style={{ transition: "all .2s ease-in-out" }}
                   onClick={ClickdisplayChar}
                 >
@@ -419,7 +421,7 @@ function App() {
 
                 {!isSelectAll_Char && (
                   <button
-                    className="text-2xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
+                    className="text-2xl mobile:text-xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
                     style={{ transition: "all .2s ease-in-out" }}
                     onClick={selectAllcharacter}
                   >
@@ -429,7 +431,7 @@ function App() {
 
                 {isSelect_Char && (
                   <button
-                    className="text-2xl bg-[#2CD3E1] hover:bg-[#FF1700] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
+                    className="text-2xl mobile:text-xl bg-[#2CD3E1] hover:bg-[#FF1700] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
                     style={{ transition: "all .2s ease-in-out" }}
                     onClick={disselectAllcharacter}
                   >
@@ -466,9 +468,9 @@ function App() {
             )}
 
             {!loading_boss && (
-              <div className="m-3 ">
+              <div className="m-3 mobile:inline-flex">
                 <button
-                  className="text-2xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-1 pr-1 pt-0 pb-0 rounded-xl"
+                  className="text-2xl mobile:text-xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-1 pr-1 pt-0 pb-0 rounded-xl"
                   style={{ transition: "all .2s ease-in-out" }}
                   onClick={ClickdisplayBoss}
                 >
@@ -488,18 +490,17 @@ function App() {
                 </button>
                 {!isSelectAll_Boss && (
                   <button
-                    className="text-2xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
+                    className="text-2xl mobile:text-xl bg-[#2CD3E1] hover:bg-[#00FFAB] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
                     style={{ transition: "all .2s ease-in-out" }}
                     onClick={selectAllboss}
                   >
                     select all
                   </button>
                 )}
-                {/* {isSelect_Boss  */}
-                {/* &&{" "} */}
+
                 {
                   <button
-                    className="text-2xl bg-[#2CD3E1] hover:bg-[#FF1700] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
+                    className="text-2xl mobile:text-xl bg-[#2CD3E1] hover:bg-[#FF1700] hover:shadow-btn text-[#e2eff1] pl-2 pr-2 pt-0 pb-0 rounded-xl ml-4"
                     style={{ transition: "all .2s ease-in-out" }}
                     onClick={disselectAllboss}
                   >

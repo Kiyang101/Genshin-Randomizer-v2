@@ -35,7 +35,7 @@ const Search = (props) => {
   }, [inputValue]);
 
   return (
-    <div className="mt-5 inline-flex">
+    <div className="mt-5 mobile:mt-2 inline-flex">
       <span className="ml-5 border-solid border-2 border-[#2CD3E1] bg-[#AEE2FF] rounded-3xl pl-1 pr-1">
         <FontAwesomeIcon
           icon={faMagnifyingGlass}

@@ -173,10 +173,10 @@ const Random = (props) => {
               <img
                 src={ele}
                 draggable="false"
-                className="z-[2] float-left absolute rounded-tl-2xl m-[3px] select-none"
+                className="z-[2] float-left absolute rounded-tl-2xl w-[32px] h-[32px] mobile:w-[25px] mobile:h-[25px] m-[3px] select-none"
                 style={{
-                  width: "32px",
-                  height: "32px",
+                  // width: "32px",
+                  // height: "32px",
                   visibility:
                     char.elements == "none" || char.elements == null
                       ? "hidden"
@@ -186,13 +186,13 @@ const Random = (props) => {
               <img
                 src={img}
                 draggable="false"
-                className="bgs rounded-t-2xl w-[133px] h-[130px] rounded-br-3xl relative z-[1] bg-center bg-no-repeat bg-cover select-none"
+                className="bgs rounded-t-2xl w-[133px] h-[130px] mobile:w-[112px] mobile:h-[110px] rounded-br-3xl relative z-[1] bg-center bg-no-repeat bg-cover select-none"
                 style={{
                   backgroundImage:
                     char.rarity === 5 ? `url(${bg5})` : `url(${bg4})`,
                 }}
               />
-              <h1 className="text-[17px] text-center truncate w-[8.3rem]">
+              <h1 className="text-[17px] text-center truncate w-[8.3rem] mobile:w-[100px]">
                 {char.name}
               </h1>
             </span>
@@ -253,8 +253,9 @@ const Random = (props) => {
                 onClick={hideWindowRandom}
               >
                 <FontAwesomeIcon
+                  className="mobile:text-5xl text-white text-[4rem]"
                   icon={faXmark}
-                  style={{ color: "#fff", fontSize: "4rem" }}
+                  // style={{ color: "#fff", fontSize: "4rem" }}
                 />
               </button>
             </div>
@@ -299,7 +300,7 @@ const Random = (props) => {
   return (
     <>
       {err && <ErrWindow />}
-      <div className="inline-flex ">
+      <div className="inline-flex mobile:mt-2">
         <button
           onClick={showWindowRandom}
           className="ml-5 border-2 bg-[#2CD3E1] text-white rounded-3xl border-none

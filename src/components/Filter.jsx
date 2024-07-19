@@ -36,7 +36,7 @@ const Filter = (props) => {
     <div className="mt-5 inline-flex">
       <button
         className="bg-[#2CD3E1] text-white cursor-pointer select-none inline-flex
-        p-1 pl-10 pt-2 pb-1 pr-10 text-2xl rounded-[30px] hover:shadow-btn ml-[5%]"
+        p-1 pl-10 mobile:pl-3 pt-2 pb-1 pr-10 mobile:pr-5 text-2xl mobile:text-xl rounded-[30px] hover:shadow-btn ml-[5%] mobile:ml-5"
         style={{
           transition: "all .2s ease-in-out",
         }}
@@ -44,7 +44,7 @@ const Filter = (props) => {
       >
         <FontAwesomeIcon
           icon={faFilter}
-          className="text-2xl translate-y-1"
+          className="text-2xl mobile:text-lg translate-y-1"
           style={{ color: "#ffffff", marginRight: ".5rem" }}
         />
         Filter
