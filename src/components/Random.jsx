@@ -17,19 +17,19 @@ const Random = (props) => {
     setboss(props.boss);
   }, [props]);
 
-  useEffect(() => {
-    console.log(show);
-  }, [show]);
+  // useEffect(() => {
+  //   console.log(show);
+  // }, [show]);
 
-  useEffect(() => {
-    console.log(ranChar);
-    console.log(ranChar.length);
-  }, [ranChar.length]);
+  // useEffect(() => {
+  //   console.log(ranChar);
+  //   console.log(ranChar.length);
+  // }, [ranChar.length]);
 
-  useEffect(() => {
-    console.log(ranBoss);
-    console.log(ranBoss.length);
-  }, [ranBoss.length]);
+  // useEffect(() => {
+  //   console.log(ranBoss);
+  //   console.log(ranBoss.length);
+  // }, [ranBoss.length]);
 
   const showWindowRandom = () => {
     if ((ranChar.length && ranBoss.length) == 0) {

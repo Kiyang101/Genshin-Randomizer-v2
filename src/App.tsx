@@ -231,48 +231,19 @@ function App() {
     }
   }, [Updated_Characters2]);
 
-  // const updateSelectboss = useMemo(() => {
-  //   const update = BossData.map((boss) => {
-  //     if (boss.select == true) {
-  //       setIsSelect_Boss(true);
-  //     }
-
-  //     const noneSelect_Boss = () => {
-  //       return CharacterData.every((obj) => !obj.select);
-  //     };
-
-  //     const allSelect_Boss = () => {
-  //       return CharacterData.every((obj) => obj.select);
-  //     };
-
-  //     if (allSelect_Boss()) {
-  //       setIsSelectAll_Boss(true);
-  //     } else {
-  //       setIsSelectAll_Boss(false);
-  //     }
-
-  //     if (noneSelect_Boss()) {
-  //       setIsSelect_Boss(false);
-  //     }
-
-  //     return boss;
-  //   });
-  //   return update;
-  // }, [BossData]);
-
   // useEffect(() => {
   //   if (!isEqual(BossData, updateSelectboss)) {
   //     setBossData(updateSelectboss);
   //   }
   // }, [updateSelectboss]);
 
-  useEffect(() => {
-    console.log("Data Charcters:", CharacterData);
-  }, [CharacterData]);
+  // useEffect(() => {
+  //   console.log("Data Charcters:", CharacterData);
+  // }, [CharacterData]);
 
-  useEffect(() => {
-    console.log("Data Boss:", BossData);
-  }, [CharacterData]);
+  // useEffect(() => {
+  //   console.log("Data Boss:", BossData);
+  // }, [CharacterData]);
 
   const [show, setShow] = useState(false);
 
