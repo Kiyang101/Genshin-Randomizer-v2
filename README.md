@@ -1,1 +1,1 @@
-https://kiyang-website.web.app/project/genshinrandomizer
+https://kiyang.net/project/genshinrandomizer
